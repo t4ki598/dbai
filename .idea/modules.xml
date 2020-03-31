@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DBAl.iml" filepath="$PROJECT_DIR$/DBAl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enumerate/enumerate.iml" filepath="$PROJECT_DIR$/enumerate/enumerate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashmap/hashmap.iml" filepath="$PROJECT_DIR$/hashmap/hashmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linklist/linklist.iml" filepath="$PROJECT_DIR$/linklist/linklist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursive/recursive.iml" filepath="$PROJECT_DIR$/recursive/recursive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tree/tree.iml" filepath="$PROJECT_DIR$/tree/tree.iml" />
+    </modules>
+  </component>
+</project>
