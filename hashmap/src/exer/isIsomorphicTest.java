@@ -30,7 +30,7 @@ public class isIsomorphicTest {
         String s = "aa";
         String t = "ab";
         isIsomorphicTest t2 = new isIsomorphicTest();
-        System.out.println(t2.isIsomorphic(s, t));
+        System.out.println(t2.isIsomorphic(s, t) && t2.isIsomorphic(t, s));
 
 
     }
